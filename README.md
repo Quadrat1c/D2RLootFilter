@@ -1,6 +1,8 @@
 # D2RLootFilter
 D2R Loot Filter - Diablo II Resurrected Loot Filter
 
+![alt text](https://github.com/Quadrat1c/D2RLootFilter/blob/main/lootfltr.JPG)
+
 ## Color Map
 - ÿc1 = Red
 - ÿc2 = Green (Set)
