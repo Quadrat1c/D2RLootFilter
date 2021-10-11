@@ -3,6 +3,25 @@ D2R Loot Filter - Diablo II Resurrected Loot Filter
 
 ![alt text](https://github.com/Quadrat1c/D2RLootFilter/blob/main/lootfltr.JPG)
 
+## Installation
+1. Make sure you have 30 Gigs free since you will be extracting the Diablo II Resurrected data to edit.
+2. Download CascView
+  - Website: http://www.zezula.net/en/casc/main.html
+  - Download: http://www.zezula.net/download/cascview_en.zip
+3. Place CascView in your Diablo II Resurrected Root Directory.
+  - Example: C:\Program Files (x86)\Diablo II Resurrected
+4. Open CascView (Use default config)
+5. Click Open Storage (Top left corner)
+6. Navigate to Diablo II Resurrected Data Folder "Diablo II Resurrected\Data"
+7. Select the Data Folder.
+8. Inside CascView Navigate to Data\Data
+9. Highlight all three folders: global, hd, local
+10. Extract to: Diablo II Resurrected\Data (This will take awhile).
+11. Diablo II Resurrected\Data should now have the following folders:
+  - config, data, global, hd, indices, local
+12. Replace the .json files with the ones from this github. In the following location.
+  - Data/local/lng/string
+
 ## Color Map
 - ÿc1 = Red
 - ÿc2 = Green (Set)
