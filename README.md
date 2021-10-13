@@ -3,8 +3,11 @@ D2R Loot Filter - Diablo II Resurrected Loot Filter
 
 ![alt text](https://github.com/Quadrat1c/D2RLootFilter/blob/main/lootfltr.JPG)
 
+# Disclaimer:
+## Original: https://github.com/AlexisEvo/d2r-loot-filter
+### No gaurantee this will not get you banned but a pretty low possibility.
+
 ## Installation
-#Disclaimer
 ### This D2R Loot filter 
 1. Make sure you have 30 Gigs free since you will be extracting the Diablo II Resurrected data to edit.
 2. Download CascView
